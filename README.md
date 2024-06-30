@@ -46,7 +46,15 @@
    ![jira](https://img.shields.io/badge/jira-212121?style=for-the-badge&logo=jira)
    ![boostrap](https://img.shields.io/badge/bootstrap-212121?style=for-the-badge&logo=bootstrap)
    ![VS Code](https://img.shields.io/badge/Visual%20Code-212121?style=for-the-badge&logo=visualstudio)
-   ![VS Code](https://img.shields.io/badge/wordpress-212121?style=for-the-badge&logo=wordpress)
+   ![VS Wordpress](https://img.shields.io/badge/wordpress-212121?style=for-the-badge&logo=wordpress)
+   ![VS PHP](https://img.shields.io/badge/php-212121?style=for-the-badge&logo=php)
+   ![Postman](https://img.shields.io/badge/postman-212121?style=for-the-badge&logo=postman)
+   ![mysql](https://img.shields.io/badge/mysql-212121?style=for-the-badge&logo=mysql)
+   ![mariadb](https://img.shields.io/badge/mariadb-212121?style=for-the-badge&logo=mariadb)
+   ![JSON](https://img.shields.io/badge/json-212121?style=for-the-badge&logo=json)
+   ![MARKDOWN](https://img.shields.io/badge/markdown-212121?style=for-the-badge&logo=markdown)
+   
+   
 
 </p>
 
